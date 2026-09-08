@@ -1,6 +1,6 @@
 # NEON CHAIN — Review
 
-Browser review of NEON CHAIN v0.25, with sixteen recordings from the FDS game.
+Browser review of NEON CHAIN v0.26, with sixteen recordings from the FDS game.
 
 Open the published page to compare five-bar meters, flight and exhaust, two-cue corners, and full EASY/HARD runs. Playback speed, frame stepping and local review notes are supported. Notes stay in the browser unless you copy or download them.
 
