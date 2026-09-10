@@ -1,9 +1,9 @@
 # NEON CHAIN — Review
 
-Browser review of NEON CHAIN v0.42, with twenty-eight recordings from the FDS game. Four updated clips show sound selection, REDLINE MIRAGE, result choices, and the restored scenery. Older intersection clips retain their v0.38 labels. The updated recordings show both playable songs.
+Browser review of NEON CHAIN v0.43, with thirty recordings. Three updated clips show the three-song menu, the green RYZEEN stage, and repaired song-select/replay displays. Older recordings retain their version labels. The spin-study page offers three original JUST turn sound proposals.
 
 Open the published page to compare five-bar meters, flight and exhaust, two-cue corners, and full EASY/HARD runs. Playback speed, frame stepping and local review notes are supported. Notes stay in the browser unless you copy or download them.
 
-The videos contain original NEON CHAIN visuals and the original tracks NEON AFTERGLOW and REDLINE MIRAGE. This repository contains the review page and its media.
+The videos contain NEON CHAIN visuals, the original tracks NEON AFTERGLOW and REDLINE MIRAGE, and a game-length arrangement of OMY’s RYZEEN based on a user-provided recording. The source recording and game disk are not included. This repository contains the review page and its media.
 
 GitHub Pages source: `main` branch, repository root.
