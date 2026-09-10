@@ -11,4 +11,4 @@ NEON CHAINの追加曲向けに制作した、オリジナルのユーロビー�
 
 再生成はプロジェクトルートから`outputs/neon-chain-eurobeat/src/compose.py`を同梱Pythonで実行します。FamiStudio 4.5.3を使用します。必要なドライバー設定はVolume Trackのみです。
 
-今回のゲーム本体にはまだ第2ステージを追加していません。既存曲は維持しています。組み込み時は新曲用の譜面、1拍24フレーム、終端7680フレーム、曲選択とロードの対応が必要です。
+v0.42でゲームへ組み込みました。起動時に左右キーで選択できます。新曲の譜面はEASY 111ノーツ／HARD 159ノーツ、12旋回、1拍24フレーム、終端7680フレーム。譜面データは`../neon-chain-intersection/assets/stage-redline.json`です。NEON AFTERGLOWも維持しています。
