@@ -1,0 +1,82 @@
+{
+  "title": "REDLINE MIRAGE",
+  "style": "Original eurobeat-inspired APU chiptune",
+  "bpm_at_60hz": 150,
+  "bars": 80,
+  "frames": 7680,
+  "seconds_at_ntsc": 127.78954361904871,
+  "key": "F# minor",
+  "channels": [
+    "Pulse 1",
+    "Pulse 2",
+    "Triangle",
+    "Noise"
+  ],
+  "dpcm": false,
+  "expansion_audio": false,
+  "unique_patterns": {
+    "Square1": 42,
+    "Square2": 14,
+    "Triangle": 9,
+    "Noise": 6
+  },
+  "sections": [
+    {
+      "bar": 1,
+      "end_bar": 4,
+      "name": "Ignition",
+      "frame": 0,
+      "seconds": 0.0
+    },
+    {
+      "bar": 5,
+      "end_bar": 12,
+      "name": "Main riff",
+      "frame": 384,
+      "seconds": 6.3894771809524356
+    },
+    {
+      "bar": 13,
+      "end_bar": 28,
+      "name": "Verse",
+      "frame": 1152,
+      "seconds": 19.168431542857306
+    },
+    {
+      "bar": 29,
+      "end_bar": 36,
+      "name": "Lift",
+      "frame": 2688,
+      "seconds": 44.72634026666705
+    },
+    {
+      "bar": 37,
+      "end_bar": 52,
+      "name": "Chorus",
+      "frame": 3456,
+      "seconds": 57.50529462857192
+    },
+    {
+      "bar": 53,
+      "end_bar": 56,
+      "name": "Break",
+      "frame": 4992,
+      "seconds": 83.06320335238166
+    },
+    {
+      "bar": 57,
+      "end_bar": 72,
+      "name": "Final chorus",
+      "frame": 5376,
+      "seconds": 89.4526805333341
+    },
+    {
+      "bar": 73,
+      "end_bar": 80,
+      "name": "Finish",
+      "frame": 6912,
+      "seconds": 115.01058925714383
+    }
+  ],
+  "integration": "New music asset only; the current game remains one stage with its original track."
+}
