@@ -1,6 +1,6 @@
 # NEON CHAIN — Review
 
-Browser review of NEON CHAIN v0.43, with thirty recordings. Three updated clips show the three-song menu, the green RYZYYYN stage, and repaired song-select/replay displays. Older recordings retain their version labels. The spin-study page offers three original JUST turn sound proposals.
+Browser review of NEON CHAIN v0.44, with thirty recordings. Three updated clips show scrolling song selection, the adopted JUST turn sound A in RYZYYYN, and a stationary craft after CLEAR followed by replay. Older recordings retain their version labels. The spin-study page preserves the adopted A and comparison proposals.
 
 Open the published page to compare five-bar meters, flight and exhaust, two-cue corners, and full EASY/HARD runs. Playback speed, frame stepping and local review notes are supported. Notes stay in the browser unless you copy or download them.
 
