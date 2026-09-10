@@ -1,0 +1,68 @@
+{
+  "status": "planning estimates, not a multi-stage build",
+  "fds_side_bytes": 65500,
+  "planned_side_budget": 60000,
+  "current_boot_used": 41343,
+  "boot_files": [
+    {
+      "name": "NEONCODE",
+      "bytes": 32768
+    },
+    {
+      "name": "NEONART",
+      "bytes": 8192
+    },
+    {
+      "name": "BOOTNMI",
+      "bytes": 1
+    },
+    {
+      "name": "BOOTWAIT",
+      "bytes": 256
+    }
+  ],
+  "A_fixed": 44978,
+  "B_fixed": 1628,
+  "save_bytes_per_side": 1024,
+  "menu_allowance": 2048,
+  "catalog_bytes_per_side": 512,
+  "chart_events_per_difficulty": 118,
+  "scenarios": [
+    {
+      "music_bytes": 1536,
+      "stage_with_record_bytes": 2407,
+      "A_tracks": 6,
+      "B_tracks": 24,
+      "total_tracks": 30,
+      "A_used": 59420,
+      "B_used": 59396
+    },
+    {
+      "music_bytes": 3433,
+      "stage_with_record_bytes": 4304,
+      "A_tracks": 3,
+      "B_tracks": 13,
+      "total_tracks": 16,
+      "A_used": 57890,
+      "B_used": 57580
+    },
+    {
+      "music_bytes": 6144,
+      "stage_with_record_bytes": 7015,
+      "A_tracks": 2,
+      "B_tracks": 8,
+      "total_tracks": 10,
+      "A_used": 59008,
+      "B_used": 57748
+    },
+    {
+      "music_bytes": 10240,
+      "stage_with_record_bytes": 11111,
+      "A_tracks": 1,
+      "B_tracks": 5,
+      "total_tracks": 6,
+      "A_used": 56089,
+      "B_used": 57183
+    }
+  ]
+}
